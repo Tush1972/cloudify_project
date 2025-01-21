@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tush1972/cloudify_project.git/static/css/main.da32b48e.css",
+    "main.js": "/Tush1972/cloudify_project.git/static/js/main.30185c72.js",
+    "index.html": "/Tush1972/cloudify_project.git/index.html",
+    "main.da32b48e.css.map": "/Tush1972/cloudify_project.git/static/css/main.da32b48e.css.map",
+    "main.30185c72.js.map": "/Tush1972/cloudify_project.git/static/js/main.30185c72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da32b48e.css",
+    "static/js/main.30185c72.js"
+  ]
+}
